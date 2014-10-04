@@ -1,0 +1,1 @@
+plum,peach,banana,grapes,apricot,cherry,grapes,mango,apricot,apricot,grapes,cherry,melon,15,0,38,47,37,19,29,cherry,orange,apricot,grapes,cherry,mango,melon,cherry,33,30,0,26,7,15,16,6,45
